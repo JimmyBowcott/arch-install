@@ -1,0 +1,7 @@
+kwrite
+kwallet
+dolphin
+konsole
+ark
+spectacle
+okular
