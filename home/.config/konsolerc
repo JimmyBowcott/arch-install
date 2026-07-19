@@ -1,0 +1,14 @@
+[Desktop Entry]
+DefaultProfile=Jim.profile
+
+[General]
+ConfigVersion=1
+
+[MainWindow]
+ToolBarsMovable=Enabled
+
+[Notification Messages]
+CloseAllTabs=true
+
+[UiSettings]
+ColorScheme=

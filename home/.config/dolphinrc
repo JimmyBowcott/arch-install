@@ -1,0 +1,18 @@
+[General]
+OpenExternallyCalledFolderInNewTab=true
+RememberOpenedTabs=false
+Version=202
+ViewPropsTimestamp=2025,4,6,15,49,32.204
+
+[InformationPanel]
+dateFormat=ShortFormat
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,avif,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,heif,imagethumbnail,jpegthumbnail,jxl,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail,gdk-pixbuf-thumbnailer
