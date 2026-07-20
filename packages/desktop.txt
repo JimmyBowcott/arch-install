@@ -16,3 +16,10 @@ wireplumber
 
 qt6-wayland
 qt5-wayland
+
+plasma-nm
+
+noto-fonts
+noto-fonts-emoji
+ttf-dejavu
+ttf-liberation
