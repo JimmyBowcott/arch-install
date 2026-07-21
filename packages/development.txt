@@ -18,6 +18,7 @@ gradle
 go
 
 rustup
+rust
 
 python
 python-pip
@@ -38,7 +39,6 @@ shfmt
 git-lfs
 
 zsh
-zsh-theme-powerlevel10k
 zsh-autosuggestions
 zsh-syntax-highlighting
 tmux

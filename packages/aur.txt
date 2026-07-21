@@ -1,2 +1,3 @@
 brave-bin
 ttf-ms-fonts
+zsh-theme-powerlevel10k-git

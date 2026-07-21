@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
-set -euo pipefail
 
 if ! command -v paru >/dev/null; then
+    rm -rf /tmp/paru
     git clone https://aur.archlinux.org/paru.git /tmp/paru
-    cd /tmp/paru
+    cd /tmp/paru || return
     makepkg -si --noconfirm
 fi
 
